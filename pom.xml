@@ -695,7 +695,7 @@
 
     <repositories>
         <repository>
-            <id>payara-artifacts</id>
+            <id>payara-nexus-artifacts</id>
             <url>https://nexus.payara.fish/repository/payara-artifacts/</url>
         </repository>
         <repository>
